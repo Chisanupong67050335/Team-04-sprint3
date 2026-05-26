@@ -25,7 +25,7 @@
 
 ## GitHub Skill Reflection: Peerawas Kajuntug 67050161
 
-1. วันนี้ฉันเพิ่ม/แก้ไขอะไรใน repo: readme.md file\
-2. 2. ฉันใช้วิธีไหน: GitHub Web\ 
-3. หลักฐานของฉันอยู่ที่ไหน:assets/photos/\
+1. วันนี้ฉันเพิ่ม/แก้ไขอะไรใน repo: readme.md file
+2. ฉันใช้วิธีไหน: GitHub Web 
+3. หลักฐานของฉันอยู่ที่ไหน:assets/photos/
 4. ฉันติดปัญหาอะไร และแก้อย่างไร: -
