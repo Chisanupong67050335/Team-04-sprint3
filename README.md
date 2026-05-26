@@ -18,4 +18,4 @@ Peerapat:
 | Peerawas| Backend | Back up Data | File.json(API) | backend |  
 | Chitsanupong | Frontend | UI | Screenshot UI | frontend |
 | Techit | UX/UI | Presentation | Screenshot Prototype | ux-ui-product |  
-| Peerapat | Logic-ai | Ai Dev |  | logic-ai |
+| Peerapat | Logic-ai | Ai Dev | Notebook (.ipynb) + Model Result | logic-ai |
