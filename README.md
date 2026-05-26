@@ -13,8 +13,9 @@ Peerapat:
 
 ## Sprint 3 Contribution Plan
 
-| Name | Role | Module/Task | Evidence to Submit | Location in Repo |
-|---|---|---|---|---|
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| Name | Role | Module/Task | Evidence |
+|---|---|---|---|
+| Peerawas| Backend | Back up Data | File.json(API) |  
+| Chitsanupong | Frontend | UI | Screenshot UI |
+| Techit | UX/UI | Presentation | Screenshot Prototype |  
+| Peerapat | Logic-ai | Ai Dev |  |  
